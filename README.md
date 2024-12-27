@@ -92,8 +92,8 @@ endmodule
 
 ![rtl 1](https://github.com/user-attachments/assets/50c1a92a-9fed-4f8e-87b6-a267a9fb7f15)
 
-**output**
-the truth table of logic gates in Quartus II using Verilog programming are verified
+**OUTPUT**
+
 
 ![output 1](https://github.com/user-attachments/assets/1be6e6eb-34c2-4d07-a12d-96cfd1e8cc44)
 
